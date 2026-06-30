@@ -1,4 +1,5 @@
-a=10
-b=12
-c=13
-print("Addition : ",a+b+c)
+"""Performs Simple addition"""
+A=10
+B=12
+C=13
+print("Addition : ",A + B + C)
